@@ -1,6 +1,6 @@
 # Youtube Downloader
 
-This is a repository that has sample code for my [Medium Article](https://blog.usejournal.com/how-i-made-my-own-youtube-downloader-using-javascript-and-node-js-160b172f6e10)
+This is a repository that has sample code for Moora his [Medium Article](https://blog.usejournal.com/how-i-made-my-own-youtube-downloader-using-javascript-and-node-js-160b172f6e10)
 
 ## Getting Started
 
